@@ -179,6 +179,7 @@ async function loginUser() {
 loginUser();
 
 /**
+
 synchronous
 asynchronous
 promise
