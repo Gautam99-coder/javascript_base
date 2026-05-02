@@ -97,3 +97,12 @@
 // const stock = 4;
 // const message = stock >0 ?"In stock":"Out of stock";
 // console.log(message)
+
+/**
+object destructuring
+array destructuring
+spread operator
+default parameter
+short circuit
+ternary
+ */
